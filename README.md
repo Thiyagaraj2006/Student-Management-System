@@ -38,5 +38,5 @@ Report Generation
 Export to Excel/PDF
 ## Contact
 
-GitHub: https://github.com/thiyagaraj-dev
+GitHub: https://github.com/Thiyagaraj2006
 LinkedIn: https://www.linkedin.com/in/thiyagaraj-d-545788328
